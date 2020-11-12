@@ -75,6 +75,7 @@
     * Product <-> Stock <-> Inbound <-> Outbound <-> Product Attribute : SKU field
     * Stock <-> Inbound : Inbound date & qty field
     * Order <-> Order History <-> Logistic : Order ID field
+    * Outbound <-> Order : Reference number field
     
 # Subsystems / Services
 * Order System
